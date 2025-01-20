@@ -1,0 +1,14 @@
+C:\Users\germa\source\repos\ServidorUDP\bin\Debug\net8.0\ServidorUDP.exe
+C:\Users\germa\source\repos\ServidorUDP\bin\Debug\net8.0\ServidorUDP.deps.json
+C:\Users\germa\source\repos\ServidorUDP\bin\Debug\net8.0\ServidorUDP.runtimeconfig.json
+C:\Users\germa\source\repos\ServidorUDP\bin\Debug\net8.0\ServidorUDP.dll
+C:\Users\germa\source\repos\ServidorUDP\bin\Debug\net8.0\ServidorUDP.pdb
+C:\Users\germa\source\repos\ServidorUDP\obj\Debug\net8.0\ServidorUDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germa\source\repos\ServidorUDP\obj\Debug\net8.0\ServidorUDP.AssemblyInfoInputs.cache
+C:\Users\germa\source\repos\ServidorUDP\obj\Debug\net8.0\ServidorUDP.AssemblyInfo.cs
+C:\Users\germa\source\repos\ServidorUDP\obj\Debug\net8.0\ServidorUDP.csproj.CoreCompileInputs.cache
+C:\Users\germa\source\repos\ServidorUDP\obj\Debug\net8.0\ServidorUDP.dll
+C:\Users\germa\source\repos\ServidorUDP\obj\Debug\net8.0\refint\ServidorUDP.dll
+C:\Users\germa\source\repos\ServidorUDP\obj\Debug\net8.0\ServidorUDP.pdb
+C:\Users\germa\source\repos\ServidorUDP\obj\Debug\net8.0\ServidorUDP.genruntimeconfig.cache
+C:\Users\germa\source\repos\ServidorUDP\obj\Debug\net8.0\ref\ServidorUDP.dll
