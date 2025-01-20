@@ -18,7 +18,7 @@
 
             s.SendTo(sendbuf, ep);
 
-            Console.WriteLine("Message sent to the broadcast address");
+            Console.WriteLine("AQUI ESTA EL CONFLICTO");
         }
     }
 }
