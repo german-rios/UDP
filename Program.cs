@@ -18,7 +18,7 @@
 
             s.SendTo(sendbuf, ep);
 
-            Console.WriteLine("AQUI ESTA EL CONFLICTO");
+            Console.WriteLine("COPIAAAAAAAAAAAa");
         }
     }
 }
