@@ -17,8 +17,8 @@
             IPEndPoint ep = new IPEndPoint(broadcast, 11000);
 
             s.SendTo(sendbuf, ep);
-
             Console.WriteLine("ESTO DICE MaSTER");
+
         }
     }
 }
